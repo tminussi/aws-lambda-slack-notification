@@ -11,7 +11,7 @@ import java.io.IOException;
 
 public class HttpPostClient {
 
-    private static final String SLACK_ENDPOINT = "https://hooks.slack.com/services/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";
+    private static final String SLACK_ENDPOINT = "your-slack-endpoint-here";
 
     public static void executePostRequest(SlackWebHook slackWebHook) throws IOException {
         CloseableHttpClient client = HttpClients.createDefault();
