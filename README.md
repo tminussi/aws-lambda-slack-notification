@@ -6,4 +6,4 @@ Free and Ready to use.
 
 If you wish to integrate it successfully with your own Slack endpoint, open up HttpPostClient class and modify SLACK_ENDPOINT constant accordingly.
 
-Also, you will need to change the apiKey values in URLsEndpoints.java to make them match to your NewsApi KEY
+Also, you will need to change the apiKey values in URLsEndpoints.java to make them match your NewsApi KEY
